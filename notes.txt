@@ -1,2 +1,3 @@
  Today i learned how to push a code to a remote repository
  I am learning stash 
+ Knowingly doing mistake
